@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**fauen/fauen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Daniel and this is my README. Currently I only have one public repository where I have my dotfiles.
+It's not much but it's mine.
 
-Here are some ideas to get you started:
+## Some more information
+- 🔭 I’m currently working on bash and powershell scripting.
+- 🌱 I’m currently learning Hugo to create webpages.
+- 👯 I’m looking to collaborate on some fun project.
+- 🤔 I’m looking for help with powershell.
+- 💬 Ask me about Minecraft and Diablo 3
+- 📫 How to reach me: Write and issue here on Github.
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: I don't really know what I'm doing but somehow stuff works!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### You are more than welcome to reach out if you have any questions about my stuff.
