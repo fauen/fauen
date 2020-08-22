@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Daniel and this is my README. Currently I only have one public repository where I have my dotfiles.
+I'm Daniel and this is my README. Currently I only have one public repository where I have my dotfiles.<br>
 It's not much but it's mine.
 
 ## Some more information
