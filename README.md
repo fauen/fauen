@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Daniel and this is my README. Currently I only have one public repository where I have my dotfiles.<br>
+I'm Daniel and this is my README. Currently I have two public repository.<br> 
 It's not much but it's mine.
 
 ## Some more information
@@ -9,7 +9,7 @@ It's not much but it's mine.
 - 👯 I’m looking to collaborate on some fun project.
 - 🤔 I’m looking for help with powershell.
 - 💬 Ask me about Minecraft and Diablo 3
-- 📫 How to reach me: Write and issue here on Github.
+- 📫 How to reach me: Write an issue here on Github.
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I don't really know what I'm doing but somehow stuff works!
 
