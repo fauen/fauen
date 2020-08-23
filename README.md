@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Daniel and this is my README. Currently I have two public repository.<br> 
+I'm Fauen and this is my README. Currently I have two public repositories.<br>
 It's not much but it's mine.
 
 ## Some more information
